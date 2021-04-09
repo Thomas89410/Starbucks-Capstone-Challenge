@@ -1,4 +1,4 @@
-# Starbucks Capstone Project | Udacity - ML Engineer Nanodegree
+# Starbucks Capstone Project
 
 ## Overview
 
@@ -40,8 +40,8 @@ Here is the schema and explanation of each variable in the files:
 
 ## Files
 The following files have been added to this repository:
--   **[Starbucks_Capstone_notebook.ipynb](https://github.com/reachanihere/Starbucks-Capstone/blob/master/Starbucks_Capstone_notebook.ipynb)**: This is the Jupyter Notebook in which I performed all my work.
--   **[data](https://github.com/reachanihere/Starbucks-Capstone/tree/master/data)**: This contains the three JSON files provided by Starbucks / Udacity as noted above.
+-   **[Starbucks_Capstone_notebook.ipynb](https://github.com/Thomas89410/Starbucks-Capstone-Challenge/blob/main/Starbucks_Capstone_notebook.ipynb)**: This notebook cotains all the analyses and work that I have done.  
+-   **[data](https://github.com/Thomas89410/Starbucks-Capstone-Challenge/tree/main/data)**: This folder contains all the input data. The transcript file had to be compressed in order to get it uploaded to github.
 
 ## Acknowledgements
-Special thanks to Starbucks and Udacity for providing the data utilized in this project!
+Thanks to udacity and starbucks to provide us with an environment and data to work on hands-on problems.
