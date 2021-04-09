@@ -39,9 +39,8 @@ Here is the schema and explanation of each variable in the files:
 - value - (dict of strings) - either an offer id or transaction amount depending on the record  
 
 ## Files
-The following files attached to this GitHub's repository include the following:
+The following files have been added to this repository:
 -   **[Starbucks_Capstone_notebook.ipynb](https://github.com/reachanihere/Starbucks-Capstone/blob/master/Starbucks_Capstone_notebook.ipynb)**: This is the Jupyter Notebook in which I performed all my work.
--   **[proposal.pdf](https://github.com/reachanihere/Starbucks-Capstone/blob/master/proposal.pdf)**: This document contains the initial project proposal I submitted prior to necessarily beginning this project.
 -   **[data](https://github.com/reachanihere/Starbucks-Capstone/tree/master/data)**: This contains the three JSON files provided by Starbucks / Udacity as noted above.
 
 ## Acknowledgements
